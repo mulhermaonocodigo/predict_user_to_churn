@@ -1,5 +1,7 @@
 ''''
 module testing churn prediction
+author: mulhermaonocodigo
+date: August, 27, 2023
 '''
 import os
 import logging

@@ -1,5 +1,9 @@
-# library doc string
-''' module main library'''
+''' 
+module main library
+methods to read bank data and train a ML model to predict churn
+author: mulhermaonocodigo
+date: August, 27, 2023
+'''
 
 # import libraries
 import os
